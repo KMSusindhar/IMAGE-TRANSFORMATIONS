@@ -41,8 +41,7 @@ import matplotlib.pyplot as plt
 
 
 # Step 1: Load the image
-image = cv2.imread('Qno. 1.png')  # Load the image from file
-
+image = cv2.imread('amby.jpg')  # Load the image from file
 
 
 # Display the original image
@@ -143,34 +142,41 @@ plt.axis('off')
 ```
 ## Output:
 ### i)Image Translation
-<img width="350" height="510" alt="image" src="https://github.com/user-attachments/assets/ce544312-e172-4500-9c12-7084cd2ee654" />
-<img width="362" height="515" alt="image" src="https://github.com/user-attachments/assets/f932b395-5dae-4dc4-b677-71b6696a4022" />
+<img width="402" height="558" alt="image" src="https://github.com/user-attachments/assets/1fef6513-3018-4ef2-b4e2-f88a8709abb8" />
+
+<img width="405" height="542" alt="image" src="https://github.com/user-attachments/assets/2e22c6ac-07f5-4ccb-bf33-cf74af63488c" />
+
 
 
 ### ii) Image Scaling
-<img width="658" height="375" alt="image" src="https://github.com/user-attachments/assets/1b5a9fe9-6852-4f68-a059-9940cda84e47" />
+<img width="756" height="408" alt="image" src="https://github.com/user-attachments/assets/26c44d74-496f-486a-ab4b-d7bc60ce318c" />
+
 
 
 
 ### iii)Image shearing
-<img width="376" height="531" alt="image" src="https://github.com/user-attachments/assets/9bc68066-9073-4df1-948d-3d19f60e4075" />
+<img width="482" height="577" alt="image" src="https://github.com/user-attachments/assets/e35deab8-7441-4984-baac-6593d27d3113" />
+
 
 
 
 ### iv)Image Reflection
-<img width="385" height="511" alt="image" src="https://github.com/user-attachments/assets/0882b37d-8b7b-4b4c-a967-5e9cb0e5eed9" />
+<img width="433" height="542" alt="image" src="https://github.com/user-attachments/assets/aadfbf7c-b152-4dc4-afae-eba5775b4591" />
+
 
 
 
 
 ### v)Image Rotation
-<img width="376" height="516" alt="image" src="https://github.com/user-attachments/assets/8f069542-b461-4481-b606-39a0840b3c9c" />
+<img width="437" height="552" alt="image" src="https://github.com/user-attachments/assets/d877f040-4cd2-47b5-9dad-1095dec55de6" />
+
 
 
 
 
 ### vi)Image Cropping
-<img width="635" height="515" alt="image" src="https://github.com/user-attachments/assets/1d6073a2-be84-4dd0-955e-10dcff779bb5" />
+<img width="735" height="557" alt="image" src="https://github.com/user-attachments/assets/0b6c196c-4cce-4a41-964d-18d28961a31e" />
+
 
 
 
