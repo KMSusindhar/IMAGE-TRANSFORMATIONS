@@ -32,7 +32,7 @@ Image cropping
 ## Program:
 ```
 Developed By: SUSINDHAR K M.
-Register Number: 212223040218
+Register Number: 212223040218.
 
 import cv2
 import numpy as np
